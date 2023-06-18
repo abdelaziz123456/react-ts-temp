@@ -24,7 +24,9 @@
       "@Utiles/*": ["/Utiles/*"],
       "@Assets/*": ["/Assets*"],
       "@Store/*": ["/Store*"],
-      "@Providers/*": ["/Providers*"]
+      "@Providers/*": ["/Providers*"],
+      "@Services/*":["/Services"],
+      "@Hooks/*":["/Hooks"]
     }
   },
   "include": ["src"]
